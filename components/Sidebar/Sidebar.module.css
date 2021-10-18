@@ -1,0 +1,9 @@
+.sidebar {
+    grid-area: sidebar;
+    text-anchor: middle;
+    font-size: 25px;
+    width: 200px;
+}
+.sidebar a {
+    color: black;
+}
